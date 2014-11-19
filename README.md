@@ -10,6 +10,6 @@ What makes the wheels turn at [Really Good Emails][really-good-emails]?
 * **[Services](/services)** - _Google Drive, Assembly, etc._
 * **[Software](/software)** - _Atom, Sketch etc._
 
-Want to contribute to this guide? See [TEMPLATE.md](/TEMPLATE.md).
+Want to contribute to this guide? See [TEMPLATE.md](/TEMPLATE.md)
 
 [really-good-emails]: http://really-good-emails.com
