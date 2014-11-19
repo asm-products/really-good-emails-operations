@@ -1,11 +1,15 @@
-# Really Good Emails
+Operations
+======
 
-## A Showcase of the Best Product Emails
+What makes the wheels turn at [Really Good Emails][really-good-emails]?
 
-This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assembly.com/really-good-emails](https://assembly.com/really-good-emails).
+* **[Visual Style Guide](/style/visual)** — _How we arrive at design decisions._
+* **[Code Style Guide](/style/code)** — _How we write and document code._
+* **[Project Management](/project_management)** — _How we manage our objectives._
+* **[Communication](/communication)** — _How we communicate / hangout._
+* **[Services](/services)** — _Google Drive, Assembly, etc._
+* **[Software](/software)** — _Atom, Sketch etc._
 
-### How Assembly Works
+Want to contribute to this guide? See [TEMPLATE.md](/TEMPLATE.md)
 
-Assembly products are like open-source and made with contributions from the community. Assembly handles the boring stuff like hosting, support, financing, legal, etc. Once the product launches we collect the revenue and split the profits amongst the contributors.
-
-Visit [https://assembly.com](https://assembly.com) to learn more.
+[really-good-emails]: http://really-good-emails.com
