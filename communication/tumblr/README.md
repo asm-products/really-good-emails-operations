@@ -40,4 +40,4 @@ Also, *feel free to make liberal use of Tumblr’s queue feature.* If you’ve f
 
 [product]: http://blog.reallygoodemails.com
 [producti]: tumblr.png
-[core]: https://assembly.com/really-good-emails/people
+[core]: https://assembly.com/really-good-emails/people?filter=core
